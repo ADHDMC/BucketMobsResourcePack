@@ -74,6 +74,6 @@ These are the current textures and their accompanying CustomModelData tags
 
 TODO:
 
-[_] Horses 
-[_] Type variants 
-[_] Fix gui weirdness with some of the buckets (allay, shulker, strider, other more complex mobs)
+- [ ] Horses 
+- [ ] Type variants 
+- [ ] Fix gui weirdness with some of the buckets (allay, shulker, strider, other more complex mobs)
