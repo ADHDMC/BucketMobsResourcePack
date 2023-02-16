@@ -31,7 +31,7 @@
     { "predicate": { "custom_model_data": 22025 }, "model": "bucket_mobs:item/iron_golem_bucket" },
     { "predicate": { "custom_model_data": 22026 }, "model": "bucket_mobs:item/llama_bucket" },
     { "predicate": { "custom_model_data": 22027 }, "model": "bucket_mobs:item/magma_cube_bucket" },
-    { "predicate": { "custom_model_data": 22028 }, "model": "bucket_mobs:item/mooshroom_bucket" },
+    { "predicate": { "custom_model_data": 22028 }, "model": "bucket_mobs:item/mushroom_cow_bucket" },
     { "predicate": { "custom_model_data": 22029 }, "model": "bucket_mobs:item/ocelot_bucket" },
     { "predicate": { "custom_model_data": 22030 }, "model": "bucket_mobs:item/panda_bucket" },
     { "predicate": { "custom_model_data": 22031 }, "model": "bucket_mobs:item/phantom_bucket" },
@@ -40,7 +40,7 @@
     { "predicate": { "custom_model_data": 22034 }, "model": "bucket_mobs:item/piglin_bucket" },
     { "predicate": { "custom_model_data": 22035 }, "model": "bucket_mobs:item/pillager_bucket" },
     { "predicate": { "custom_model_data": 22036 }, "model": "bucket_mobs:item/polar_bear_bucket" },
-    { "predicate": { "custom_model_data": 22037 }, "model": "bucket_mobs:item/pumpkin_golem_bucket" },
+    { "predicate": { "custom_model_data": 22037 }, "model": "bucket_mobs:item/snow_golem_bucket" },
     { "predicate": { "custom_model_data": 22038 }, "model": "bucket_mobs:item/rabbit_bucket" },
     { "predicate": { "custom_model_data": 22039 }, "model": "bucket_mobs:item/ravager_bucket" },
     { "predicate": { "custom_model_data": 22040 }, "model": "bucket_mobs:item/red_blue_parrot_bucket" },
@@ -67,7 +67,7 @@
     { "predicate": { "custom_model_data": 22061 }, "model": "bucket_mobs:item/wolf_bucket" },
     { "predicate": { "custom_model_data": 22062 }, "model": "bucket_mobs:item/zombie_bucket" },
     { "predicate": { "custom_model_data": 22063 }, "model": "bucket_mobs:item/zombie_villager_bucket" },
-    { "predicate": { "custom_model_data": 22064 }, "model": "bucket_mobs:item/zombified_hoglin_bucket" },
+    { "predicate": { "custom_model_data": 22064 }, "model": "bucket_mobs:item/zoglin_bucket" },
     { "predicate": { "custom_model_data": 22065 }, "model": "bucket_mobs:item/zombified_piglin_bucket" }
   ]
 }
