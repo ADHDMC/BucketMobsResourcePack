@@ -36,7 +36,6 @@
     { "predicate": { "custom_model_data": 22036 }, "model": "bucket_mobs:item/polar_bear_bucket" },
     { "predicate": { "custom_model_data": 22037 }, "model": "bucket_mobs:item/snow_golem_bucket" },
     { "predicate": { "custom_model_data": 22039 }, "model": "bucket_mobs:item/ravager_bucket" },
-    { "predicate": { "custom_model_data": 22040 }, "model": "bucket_mobs:item/red_blue_parrot_bucket" },
     { "predicate": { "custom_model_data": 22041 }, "model": "bucket_mobs:item/shulker_bucket" },
     { "predicate": { "custom_model_data": 22042 }, "model": "bucket_mobs:item/silverfish_bucket" },
     { "predicate": { "custom_model_data": 22043 }, "model": "bucket_mobs:item/skeleton_bucket" },
@@ -86,7 +85,6 @@
     { "predicate": { "custom_model_data": 22089 }, "model": "bucket_mobs:item/orange_shulker_bucket" },
     { "predicate": { "custom_model_data": 22090 }, "model": "bucket_mobs:item/red_shulker_bucket" },
 
-
     { "predicate": { "custom_model_data": 22091 }, "model": "bucket_mobs:item/leatherworker_zombie_villager_bucket" },
     { "predicate": { "custom_model_data": 22092 }, "model": "bucket_mobs:item/mason_zombie_villager_bucket" },
     { "predicate": { "custom_model_data": 22093 }, "model": "bucket_mobs:item/toolsmith_zombie_villager_bucket" },
@@ -102,7 +100,6 @@
     { "predicate": { "custom_model_data": 22103 }, "model": "bucket_mobs:item/armorer_zombie_villager_bucket" },
     { "predicate": { "custom_model_data": 22104 }, "model": "bucket_mobs:item/nitwit_zombie_villager_bucket" },
     { "predicate": { "custom_model_data": 22105 }, "model": "bucket_mobs:item/zombie_villager_bucket" },
-
 
     { "predicate": { "custom_model_data": 22106 }, "model": "bucket_mobs:item/mason_villager_bucket" },
     { "predicate": { "custom_model_data": 22107 }, "model": "bucket_mobs:item/toolsmith_villager_bucket" },
@@ -139,7 +136,6 @@
     { "predicate": { "custom_model_data": 22134 }, "model": "bucket_mobs:item/fox_bucket" },
     { "predicate": { "custom_model_data": 22135 }, "model": "bucket_mobs:item/snow_fox_bucket" },
 
-
     { "predicate": { "custom_model_data": 22136 }, "model": "bucket_mobs:item/chicken_bucket" },
     { "predicate": { "custom_model_data": 22137 }, "model": "bucket_mobs:item/fried_chicken_bucket" },
 
@@ -154,7 +150,6 @@
     { "predicate": { "custom_model_data": 22146 }, "model": "bucket_mobs:item/white_cat_bucket" },
     { "predicate": { "custom_model_data": 22147 }, "model": "bucket_mobs:item/tabby_cat_bucket" },
     { "predicate": { "custom_model_data": 22148 }, "model": "bucket_mobs:item/red_cat_bucket" },
-
 
     { "predicate": { "custom_model_data": 22149 }, "model": "bucket_mobs:item/white_sheep_bucket" },
     { "predicate": { "custom_model_data": 22150 }, "model": "bucket_mobs:item/light_grey_sheep_bucket" },
@@ -171,6 +166,12 @@
     { "predicate": { "custom_model_data": 22161 }, "model": "bucket_mobs:item/green_sheep_bucket" },
     { "predicate": { "custom_model_data": 22162 }, "model": "bucket_mobs:item/cyan_sheep_bucket" },
     { "predicate": { "custom_model_data": 22163 }, "model": "bucket_mobs:item/blue_sheep_bucket" },
-    { "predicate": { "custom_model_data": 22164 }, "model": "bucket_mobs:item/light_blue_sheep_bucket" }
+    { "predicate": { "custom_model_data": 22164 }, "model": "bucket_mobs:item/light_blue_sheep_bucket" },
+
+    { "predicate": { "custom_model_data": 22165 }, "model": "bucket_mobs:item/red_blue_parrot_bucket" },
+    { "predicate": { "custom_model_data": 22166 }, "model": "bucket_mobs:item/blue_parrot_bucket" },
+    { "predicate": { "custom_model_data": 22167 }, "model": "bucket_mobs:item/yellow_blue_parrot_bucket" },
+    { "predicate": { "custom_model_data": 22168 }, "model": "bucket_mobs:item/green_parrot_bucket" },
+    { "predicate": { "custom_model_data": 22169 }, "model": "bucket_mobs:item/grey_parrot_bucket" }
   ]
 }
