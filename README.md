@@ -4,76 +4,79 @@ This resource pack is to accompany the plugin [SimpleBucketMobs](https://github.
 
 These are the current textures and their accompanying CustomModelData tags
 
-| Custom Model Data | Name Space              |
-|-------------------|-------------------------|
-| 22001             | allay_bucket            |
-| 22002             | bat_bucket              |
-| 22003             | bee_bucket              |
-| 22004             | black_cat_bucket        |
-| 22005             | blaze_bucket            |
-| 22006             | cave_spider_bucket      |
-| 22007             | chicken_bucket          |
-| 22008             | cold_frog_bucket        |
-| 22009             | cow_bucket              |
-| 22010             | creeper_bucket          |
-| 22011             | dolphin_bucket          |
-| 22012             | drowned_bucket          |
-| 22013             | elder_guardian_bucket   |
-| 22014             | ender_dragon_bucket     |
-| 22015             | enderman_bucket         |
-| 22016             | endermite_bucket        |
-| 22017             | evoker_bucket           |
-| 22018             | fox_bucket              |
-| 22019             | ghast_bucket            |
-| 22020             | glow_squid_bucket       |
-| 22021             | guardian_bucket         |
-| 22022             | hoglin_bucket           |
-| 22023             | husk_bucket             |
-| 22024             | illusioner_bucket       |
-| 22025             | iron_golem_bucket       |
-| 22026             | llama_bucket            |
-| 22027             | magma_cube_bucket       |
-| 22028             | mooshroom_bucket        |
-| 22029             | ocelot_bucket           |
-| 22030             | panda_bucket            |
-| 22031             | phantom_bucket          |
-| 22032             | pig_bucket              |
-| 22033             | piglin_brute_bucket     |
-| 22034             | piglin_bucket           |
-| 22035             | pillager_bucket         |
-| 22036             | polar_bear_bucket       |
-| 22037             | pumpkin_golem_bucket    |
-| 22038             | rabbit_bucket           |
-| 22039             | ravager_bucket          |
-| 22040             | red_blue_parrot_bucket  |
-| 22041             | shulker_bucket          |
-| 22042             | silverfish_bucket       |
-| 22043             | skeleton_bucket         |
-| 22044             | slime_bucket            |
-| 22045             | spider_bucket           |
-| 22046             | squid_bucket            |
-| 22047             | stray_bucket            |
-| 22048             | strider_bucket          |
-| 22049             | tamed_wolf_bucket       |
-| 22050             | trader_llama_bucket     |
-| 22051             | turtle_bucket           |
-| 22052             | vex_bucket              |
-| 22053             | villager_bucket         |
-| 22054             | vindicator_bucket       |
-| 22055             | wandering_trader_bucket |
-| 22056             | warden_bucket           |
-| 22057             | white_sheep_bucket      |
-| 22058             | witch_bucket            |
-| 22059             | wither_bucket           |
-| 22060             | wither_skeleton_bucket  |
-| 22061             | wolf_bucket             |
-| 22062             | zombie_bucket           |
-| 22063             | zombie_villager_bucket  |
-| 22064             | zombified_hoglin_bucket |
-| 22065             | zombified_piglin_bucket |
+| Model # | Texture | - | Model # | Texture | - |Model # | Texture | - |Model # | Texture |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |---- | ---- | ---- |
+| 22001 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/allay_bucket.png) | - | 22002 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/bat_bucket.png) | - | 22003 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/bee_bucket.png) | - | 22005 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/blaze_bucket.png) |
+| 22006 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/cave_spider_bucket.png) | - | 22009 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/cow_bucket.png) | - | 22010 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/creeper_bucket.png) | - | 22011 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/dolphin_bucket.png) |
+| 22012 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/drowned_bucket.png) | - | 22013 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/elder_guardian_bucket.png) | - | 22014 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/ender_dragon_bucket.png) | - | 22015 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/enderman_bucket.png) |
+| 22016 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/endermite_bucket.png) | - | 22017 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/evoker_bucket.png) | - | 22019 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/ghast_bucket.png) | - | 22020 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/glow_squid_bucket.png) |
+| 22021 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/guardian_bucket.png) | - | 22022 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/hoglin_bucket.png) | - | 22023 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/husk_bucket.png) | - | 22024 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/illusioner_bucket.png) |
+| 22025 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/iron_golem_bucket.png) | - | 22027 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/magma_cube_bucket.png) | - | 22029 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/ocelot_bucket.png) | - | 22030 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/panda_bucket.png) |
+| 22031 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/phantom_bucket.png) | - | 22032 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/pig_bucket.png) | - | 22033 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/piglin_brute_bucket.png) | - | 22034 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/piglin_bucket.png) |
+| 22035 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/pillager_bucket.png) | - | 22036 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/polar_bear_bucket.png) | - | 22037 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/snow_golem_bucket.png) | - | 22039 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/ravager_bucket.png) |
+| 22040 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/red_blue_parrot_bucket.png) | - | 22041 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/shulker_bucket.png) | - | 22042 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/silverfish_bucket.png) | - | 22043 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/skeleton_bucket.png) |
+| 22044 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/slime_bucket.png) | - | 22045 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/spider_bucket.png) | - | 22046 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/squid_bucket.png) | - | 22047 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/stray_bucket.png) |
+| 22048 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/strider_bucket.png) | - | 22049 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/tamed_wolf_bucket.png) | - | 22051 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/turtle_bucket.png) | - | 22052 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/vex_bucket.png) |
+| 22054 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/vindicator_bucket.png) | - | 22055 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/wandering_trader_bucket.png) | - | 22056 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/warden_bucket.png) | - | 22058 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/witch_bucket.png) |
+| 22059 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/wither_bucket.png) | - | 22060 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/wither_skeleton_bucket.png) | - | 22061 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/wolf_bucket.png) | - | 22062 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/zombie_bucket.png) |
+| 22064 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/zoglin_bucket.png) | - | 22065 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/zombified_piglin_bucket.png) |
+
+| Model # | Texture | - | Model # | Texture | - |Model # | Texture | - |Model # | Texture |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |---- | ---- | ---- |
+| 22066 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/salt_rabbit_bucket.png) | - | 22067 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/white_splotched_rabbit_bucket.png) | - | 22068 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/killer_rabbit_bucket.png) | - | 22069 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/white_rabbit_bucket.png) |
+| 22070 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/toast_rabbit_bucket.png) | - | 22071 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/brown_rabbit_bucket.png) | - | 22072 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/black_rabbit_bucket.png) | - | 22073 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/gold_rabbit_bucket.png) |
+
+| Model # | Texture | - | Model # | Texture | - |Model # | Texture | - |Model # | Texture |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |---- | ---- | ---- |
+| 22074 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/shulker_bucket.png) | - | 22075 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/white_shulker_bucket.png) | - | 22076 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/light_grey_shulker_bucket.png) | - | 22077 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/grey_shulker_bucket.png) |
+| 22078 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/black_shulker_bucket.png) | - | 22079 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/brown_shulker_bucket.png) | - | 22080 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/pink_shulker_bucket.png) | - | 22081 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/magenta_shulker_bucket.png) |
+| 22082 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/purple_shulker_bucket.png) | - | 22083 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/blue_shulker_bucket.png) | - | 22084 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/light_blue_shulker_bucket.png) | - | 22085 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/cyan_shulker_bucket.png) |
+| 22086 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/green_shulker_bucket.png) | - | 22087 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/lime_shulker_bucket.png) | - | 22088 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/yellow_shulker_bucket.png) | - | 22089 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/orange_shulker_bucket.png) |
+| 22090 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/red_shulker_bucket.png) |
+
+
+| Model # | Texture | - | Model # | Texture | - |Model # | Texture | - |Model # | Texture |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |---- | ---- | ---- |
+| 22091 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/leatherworker_zombie_villager_bucket.png) | - | 22092 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/mason_zombie_villager_bucket.png) | - | 22093 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/toolsmith_zombie_villager_bucket.png) | - | 22094 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/weaponsmith_zombie_villager_bucket.png) |
+| 22095 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/shepherd_zombie_villager_bucket.png) | - | 22096 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/librarian_zombie_villager_bucket.png) | - | 22097 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/fletcher_zombie_villager_bucket.png) | - | 22098 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/fisherman_zombie_villager_bucket.png) |
+| 22099 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/farmer_zombie_villager_bucket.png) | - | 22100 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/cleric_zombie_villager_bucket.png) | - | 22101 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/cartographer_zombie_villager_bucket.png) | - | 22102 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/butcher_zombie_villager_bucket.png) |
+| 22103 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/armorer_zombie_villager_bucket.png) | - | 22104 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/nitwit_zombie_villager_bucket.png) | - | 22105 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/zombie_villager_bucket.png) |
+
+
+| Model # | Texture | - | Model # | Texture | - |Model # | Texture | - |Model # | Texture |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |---- | ---- | ---- |
+| 22106 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/mason_villager_bucket.png) | - | 22107 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/toolsmith_villager_bucket.png) | - | 22108 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/leatherworker_villager_bucket.png) | - | 22109 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/weaponsmith_villager_bucket.png) |
+| 22110 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/shepherd_villager_bucket.png) | - | 22111 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/librarian_villager_bucket.png) | - | 22112 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/fletcher_villager_bucket.png) | - | 22113 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/fisherman_villager_bucket.png) |
+| 22114 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/farmer_villager_bucket.png) | - | 22115 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/cleric_villager_bucket.png) | - | 22116 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/cartographer_villager_bucket.png) | - | 22117 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/butcher_villager_bucket.png) |
+| 22118 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/armorer_villager_bucket.png) | - | 22119 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/nitwit_villager_bucket.png) | - | 22120 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/plain_villager_bucket.png) |
+
+| Model # | Texture | - | Model # | Texture | - |Model # | Texture | - |Model # | Texture |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |---- | ---- | ---- |
+| 22121 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/mushroom_cow_bucket.png) | - | 22122 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/brown_mushroom_cow_bucket.png) | - | 22123 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/cold_frog_bucket.png) | - | 22124 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/temperate_frog_bucket.png) |
+| 22125 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/warm_frog_bucket.png) |
+
+| Model # | Texture | - | Model # | Texture | - |Model # | Texture | - |Model # | Texture |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |---- | ---- | ---- |
+| 22126 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/grey_trader_llama_bucket.png) | - | 22127 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/white_trader_llama_bucket.png) | - | 22128 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/creamy_trader_llama_bucket.png) | - | 22129 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/brown_trader_llama_bucket.png) |
+| 22130 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/brown_llama_bucket.png) | - | 22131 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/creamy_llama_bucket.png) | - | 22132 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/white_llama_bucket.png) | - | 22133 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/grey_llama_bucket.png) |
+
+| Model # | Texture | - | Model # | Texture | - |Model # | Texture | - |Model # | Texture |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |---- | ---- | ---- |
+| 22134 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/fox_bucket.png) | - | 22135 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/snow_fox_bucket.png) | - | 22136 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/chicken_bucket.png) | - | 22137 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/fried_chicken_bucket.png) |
+
+| Model # | Texture | - | Model # | Texture | - |Model # | Texture | - |Model # | Texture |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |---- | ---- | ---- |
+| 22138 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/black_cat_bucket.png) | - | 22139 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/british_shorthair_cat_bucket.png) | - | 22140 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/all_black_cat_bucket.png) | - | 22141 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/siamese_cat_bucket.png) |
+| 22142 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/ragdoll_cat_bucket.png) | - | 22143 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/persian_cat_bucket.png) | - | 22144 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/jellie_cat_bucket.png) | - | 22145 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/calico_cat_bucket.png) |
+| 22146 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/white_cat_bucket.png) | - | 22147 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/tabby_cat_bucket.png) | - | 22148 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/red_cat_bucket.png) |
+
+| Model # | Texture | - | Model # | Texture | - |Model # | Texture | - |Model # | Texture |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |---- | ---- | ---- |
+| 22149 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/white_sheep_bucket.png) | - | 22150 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/light_grey_sheep_bucket.png) | - | 22151 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/grey_sheep_bucket.png) | - | 22152 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/black_sheep_bucket.png) |
+| 22153 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/brown_sheep_bucket.png) | - | 22154 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/purple_sheep_bucket.png) | - | 22155 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/magenta_sheep_bucket.png) | - | 22156 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/red_sheep_bucket.png) |
+| 22157 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/pink_sheep_bucket.png) | - | 22158 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/orange_sheep_bucket.png) | - | 22159 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/yellow_sheep_bucket.png) | - | 22160 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/lime_sheep_bucket.png) |
+| 22161 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/green_sheep_bucket.png) | - | 22162 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/cyan_sheep_bucket.png) | - | 22163 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/blue_sheep_bucket.png) | - | 22164 | ![image](https://raw.githubusercontent.com/ADHDMC/BucketMobsResourcePack/master/assets/bucket_mobs/textures/item/light_blue_sheep_bucket.png) |
 
 TODO:
 
 - [ ] Horses 
-- [ ] Type variants 
-- [ ] Fix gui weirdness with some of the buckets (allay, shulker, strider, other more complex mobs)
