@@ -172,6 +172,13 @@
     { "predicate": { "custom_model_data": 22166 }, "model": "bucket_mobs:item/blue_parrot_bucket" },
     { "predicate": { "custom_model_data": 22167 }, "model": "bucket_mobs:item/yellow_blue_parrot_bucket" },
     { "predicate": { "custom_model_data": 22168 }, "model": "bucket_mobs:item/green_parrot_bucket" },
-    { "predicate": { "custom_model_data": 22169 }, "model": "bucket_mobs:item/grey_parrot_bucket" }
+    { "predicate": { "custom_model_data": 22169 }, "model": "bucket_mobs:item/grey_parrot_bucket" },
+
+    { "predicate": { "custom_model_data": 22170 }, "model": "bucket_mobs:item/donkey_bucket" },
+    { "predicate": { "custom_model_data": 22171 }, "model": "bucket_mobs:item/mule_bucket" },
+    { "predicate": { "custom_model_data": 22172 }, "model": "bucket_mobs:item/horse_bucket" },
+    { "predicate": { "custom_model_data": 22173 }, "model": "bucket_mobs:item/zombie_horse_bucket" },
+    { "predicate": { "custom_model_data": 22174 }, "model": "bucket_mobs:item/skeleton_horse_bucket" },
+    { "predicate": { "custom_model_data": 22175 }, "model": "bucket_mobs:item/goat_bucket" }
   ]
 }
