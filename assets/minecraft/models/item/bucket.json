@@ -165,6 +165,8 @@
     { "predicate": { "custom_model_data": 22158 }, "model": "bucket_mobs:item/overworld_mobs/water_mobs/glow_squid_bucket" },
     { "predicate": { "custom_model_data": 22159 }, "model": "bucket_mobs:item/overworld_mobs/water_mobs/guardian_bucket" },
     { "predicate": { "custom_model_data": 22160 }, "model": "bucket_mobs:item/overworld_mobs/water_mobs/squid_bucket" },
-    { "predicate": { "custom_model_data": 22161 }, "model": "bucket_mobs:item/overworld_mobs/water_mobs/turtle_bucket" }
+    { "predicate": { "custom_model_data": 22161 }, "model": "bucket_mobs:item/overworld_mobs/water_mobs/turtle_bucket" },
+    { "predicate": { "custom_model_data": 22162 }, "model": "bucket_mobs:item/overworld_mobs/passives_and_neutrals/misc/camel_bucket" },
+    { "predicate": { "custom_model_data": 22163 }, "model": "bucket_mobs:item/overworld_mobs/passives_and_neutrals/misc/sniffer_bucket" }
   ]
 }
