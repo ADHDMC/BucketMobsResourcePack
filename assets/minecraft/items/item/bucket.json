@@ -1,0 +1,1972 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/bucket"
+    },
+    "cases": [
+      {
+        "when": "blue_axolotl",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/axolotl/blue"
+        }
+      },
+      {
+        "when": "cyan_axolotl",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/axolotl/cyan"
+        }
+      },
+      {
+        "when": "gold_axolotl",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/axolotl/gold"
+        }
+      },
+      {
+        "when": "pink_axolotl",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/axolotl/pink"
+        }
+      },
+      {
+        "when": "wild_axolotl",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/axolotl/wild"
+        }
+      },
+      {
+        "when": "all_black_cat",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/cat/all_black"
+        }
+      },
+      {
+        "when": "british_shorthair_cat",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/cat/british_shorthair"
+        }
+      },
+      {
+        "when": "calico_cat",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/cat/calico"
+        }
+      },
+      {
+        "when": "jellie_cat",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/cat/jellie"
+        }
+      },
+      {
+        "when": "ocelot_cat",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/cat/ocelot"
+        }
+      },
+      {
+        "when": "persian_cat",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/cat/persian"
+        }
+      },
+      {
+        "when": "ragdoll_cat",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/cat/ragdoll"
+        }
+      },
+      {
+        "when": "siamese_cat",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/cat/siamese"
+        }
+      },
+      {
+        "when": "tabby_cat",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/cat/tabby"
+        }
+      },
+      {
+        "when": "brown_mooshroom_cow",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/cow/brown_mooshroom"
+        }
+      },
+      {
+        "when": "cow_cow",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/cow/cow"
+        }
+      },
+      {
+        "when": "mooshroom_cow",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/cow/mooshroom"
+        }
+      },
+      {
+        "when": "black_default_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/black_default"
+        }
+      },
+      {
+        "when": "black_white_field_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/black_white_field"
+        }
+      },
+      {
+        "when": "black_white_spots_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/black_white_spots"
+        }
+      },
+      {
+        "when": "black_white_stockings_and_blaze_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/black_white_stockings_and_blaze"
+        }
+      },
+      {
+        "when": "brown_default_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/brown_default"
+        }
+      },
+      {
+        "when": "brown_white_field_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/brown_white_field"
+        }
+      },
+      {
+        "when": "brown_white_spots_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/brown_white_spots"
+        }
+      },
+      {
+        "when": "brown_white_stockings_and_blaze_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/brown_white_stockings_and_blaze"
+        }
+      },
+      {
+        "when": "chestnut_default_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/chestnut_default"
+        }
+      },
+      {
+        "when": "chestnut_white_field_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/chestnut_white_field"
+        }
+      },
+      {
+        "when": "chestnut_white_spots_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/chestnut_white_spots"
+        }
+      },
+      {
+        "when": "chestnut_white_stockings_and_blaze_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/chestnut_white_stockings_and_blaze"
+        }
+      },
+      {
+        "when": "creamy_default_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/creamy_default"
+        }
+      },
+      {
+        "when": "creamy_white_field_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/creamy_white_field"
+        }
+      },
+      {
+        "when": "creamy_white_spots_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/creamy_white_spots"
+        }
+      },
+      {
+        "when": "creamy_white_stockings_and_blaze_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/creamy_white_stockings_and_blaze"
+        }
+      },
+      {
+        "when": "dark_brown_default_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/dark_brown_default"
+        }
+      },
+      {
+        "when": "dark_brown_white_field_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/dark_brown_white_field"
+        }
+      },
+      {
+        "when": "dark_brown_white_spots_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/dark_brown_white_spots"
+        }
+      },
+      {
+        "when": "dark_brown_white_stockings_and_blaze_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/dark_brown_white_stockings_and_blaze"
+        }
+      },
+      {
+        "when": "donkey_default_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/donkey_default"
+        }
+      },
+      {
+        "when": "gray_default_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/gray_default"
+        }
+      },
+      {
+        "when": "gray_white_field_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/gray_white_field"
+        }
+      },
+      {
+        "when": "gray_white_spots_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/gray_white_spots"
+        }
+      },
+      {
+        "when": "gray_white_stockings_and_blaze_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/gray_white_stockings_and_blaze"
+        }
+      },
+      {
+        "when": "mule_default_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/mule_default"
+        }
+      },
+      {
+        "when": "skeleton_default_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/skeleton_default"
+        }
+      },
+      {
+        "when": "white_default_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/white_default"
+        }
+      },
+      {
+        "when": "white_white_field_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/white_white_field"
+        }
+      },
+      {
+        "when": "white_white_spots_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/white_white_spots"
+        }
+      },
+      {
+        "when": "white_white_stockings_and_blaze_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/white_white_stockings_and_blaze"
+        }
+      },
+      {
+        "when": "zombie_default_horse",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/horse/zombie_default"
+        }
+      },
+      {
+        "when": "evoker_illager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/illager/evoker"
+        }
+      },
+      {
+        "when": "illusioner_illager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/illager/illusioner"
+        }
+      },
+      {
+        "when": "pillager_illager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/illager/pillager"
+        }
+      },
+      {
+        "when": "ravager_illager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/illager/ravager"
+        }
+      },
+      {
+        "when": "vindicator_illager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/illager/vindicator"
+        }
+      },
+      {
+        "when": "brown_black_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_black"
+        }
+      },
+      {
+        "when": "brown_blue_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_blue"
+        }
+      },
+      {
+        "when": "brown_brown_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_brown"
+        }
+      },
+      {
+        "when": "brown_cyan_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_cyan"
+        }
+      },
+      {
+        "when": "brown_default_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_default"
+        }
+      },
+      {
+        "when": "brown_gray_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_gray"
+        }
+      },
+      {
+        "when": "brown_green_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_green"
+        }
+      },
+      {
+        "when": "brown_light_blue_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_light_blue"
+        }
+      },
+      {
+        "when": "brown_light_gray_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_light_gray"
+        }
+      },
+      {
+        "when": "brown_lime_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_lime"
+        }
+      },
+      {
+        "when": "brown_magenta_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_magenta"
+        }
+      },
+      {
+        "when": "brown_orange_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_orange"
+        }
+      },
+      {
+        "when": "brown_pink_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_pink"
+        }
+      },
+      {
+        "when": "brown_purple_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_purple"
+        }
+      },
+      {
+        "when": "brown_red_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_red"
+        }
+      },
+      {
+        "when": "brown_trader_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_trader"
+        }
+      },
+      {
+        "when": "brown_white_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_white"
+        }
+      },
+      {
+        "when": "brown_yellow_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/brown_yellow"
+        }
+      },
+      {
+        "when": "creamy_black_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_black"
+        }
+      },
+      {
+        "when": "creamy_blue_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_blue"
+        }
+      },
+      {
+        "when": "creamy_brown_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_brown"
+        }
+      },
+      {
+        "when": "creamy_cyan_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_cyan"
+        }
+      },
+      {
+        "when": "creamy_default_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_default"
+        }
+      },
+      {
+        "when": "creamy_gray_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_gray"
+        }
+      },
+      {
+        "when": "creamy_green_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_green"
+        }
+      },
+      {
+        "when": "creamy_light_blue_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_light_blue"
+        }
+      },
+      {
+        "when": "creamy_light_gray_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_light_gray"
+        }
+      },
+      {
+        "when": "creamy_lime_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_lime"
+        }
+      },
+      {
+        "when": "creamy_magenta_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_magenta"
+        }
+      },
+      {
+        "when": "creamy_orange_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_orange"
+        }
+      },
+      {
+        "when": "creamy_pink_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_pink"
+        }
+      },
+      {
+        "when": "creamy_purple_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_purple"
+        }
+      },
+      {
+        "when": "creamy_red_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_red"
+        }
+      },
+      {
+        "when": "creamy_trader_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_trader"
+        }
+      },
+      {
+        "when": "creamy_white_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_white"
+        }
+      },
+      {
+        "when": "creamy_yellow_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/creamy_yellow"
+        }
+      },
+      {
+        "when": "gray_black_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_black"
+        }
+      },
+      {
+        "when": "gray_blue_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_blue"
+        }
+      },
+      {
+        "when": "gray_brown_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_brown"
+        }
+      },
+      {
+        "when": "gray_cyan_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_cyan"
+        }
+      },
+      {
+        "when": "gray_default_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_default"
+        }
+      },
+      {
+        "when": "gray_gray_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_gray"
+        }
+      },
+      {
+        "when": "gray_green_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_green"
+        }
+      },
+      {
+        "when": "gray_light_blue_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_light_blue"
+        }
+      },
+      {
+        "when": "gray_light_gray_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_light_gray"
+        }
+      },
+      {
+        "when": "gray_lime_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_lime"
+        }
+      },
+      {
+        "when": "gray_magenta_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_magenta"
+        }
+      },
+      {
+        "when": "gray_orange_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_orange"
+        }
+      },
+      {
+        "when": "gray_pink_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_pink"
+        }
+      },
+      {
+        "when": "gray_purple_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_purple"
+        }
+      },
+      {
+        "when": "gray_red_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_red"
+        }
+      },
+      {
+        "when": "gray_trader_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_trader"
+        }
+      },
+      {
+        "when": "gray_white_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_white"
+        }
+      },
+      {
+        "when": "gray_yellow_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/gray_yellow"
+        }
+      },
+      {
+        "when": "white_black_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_black"
+        }
+      },
+      {
+        "when": "white_blue_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_blue"
+        }
+      },
+      {
+        "when": "white_brown_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_brown"
+        }
+      },
+      {
+        "when": "white_cyan_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_cyan"
+        }
+      },
+      {
+        "when": "white_default_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_default"
+        }
+      },
+      {
+        "when": "white_gray_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_gray"
+        }
+      },
+      {
+        "when": "white_green_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_green"
+        }
+      },
+      {
+        "when": "white_light_blue_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_light_blue"
+        }
+      },
+      {
+        "when": "white_light_gray_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_light_gray"
+        }
+      },
+      {
+        "when": "white_lime_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_lime"
+        }
+      },
+      {
+        "when": "white_magenta_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_magenta"
+        }
+      },
+      {
+        "when": "white_orange_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_orange"
+        }
+      },
+      {
+        "when": "white_pink_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_pink"
+        }
+      },
+      {
+        "when": "white_purple_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_purple"
+        }
+      },
+      {
+        "when": "white_red_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_red"
+        }
+      },
+      {
+        "when": "white_trader_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_trader"
+        }
+      },
+      {
+        "when": "white_white_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_white"
+        }
+      },
+      {
+        "when": "white_yellow_llama",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/llama/white_yellow"
+        }
+      },
+      {
+        "when": "allay_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/allay"
+        }
+      },
+      {
+        "when": "armadillo_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/armadillo"
+        }
+      },
+      {
+        "when": "armor_stand_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/armor_stand"
+        }
+      },
+      {
+        "when": "bat_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/bat"
+        }
+      },
+      {
+        "when": "bee_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/bee"
+        }
+      },
+      {
+        "when": "blaze_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/blaze"
+        }
+      },
+      {
+        "when": "breeze_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/breeze"
+        }
+      },
+      {
+        "when": "camel_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/camel"
+        }
+      },
+      {
+        "when": "cave_spider_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/cave_spider"
+        }
+      },
+      {
+        "when": "charged_creeper_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/charged_creeper"
+        }
+      },
+      {
+        "when": "chicken_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/chicken"
+        }
+      },
+      {
+        "when": "creaking_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/creaking"
+        }
+      },
+      {
+        "when": "creeper_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/creeper"
+        }
+      },
+      {
+        "when": "dolphin_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/dolphin"
+        }
+      },
+      {
+        "when": "elder_guardian_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/elder_guardian"
+        }
+      },
+      {
+        "when": "enderman_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/enderman"
+        }
+      },
+      {
+        "when": "endermite_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/endermite"
+        }
+      },
+      {
+        "when": "ender_dragon_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/ender_dragon"
+        }
+      },
+      {
+        "when": "fox_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/fox"
+        }
+      },
+      {
+        "when": "ghast_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/ghast"
+        }
+      },
+      {
+        "when": "glow_squid_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/glow_squid"
+        }
+      },
+      {
+        "when": "guardian_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/guardian"
+        }
+      },
+      {
+        "when": "hoglin_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/hoglin"
+        }
+      },
+      {
+        "when": "iron_golem_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/iron_golem"
+        }
+      },
+      {
+        "when": "magma_cube_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/magma_cube"
+        }
+      },
+      {
+        "when": "phantom_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/phantom"
+        }
+      },
+      {
+        "when": "pig_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/pig"
+        }
+      },
+      {
+        "when": "polar_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/polar"
+        }
+      },
+      {
+        "when": "pumpkin_golem_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/pumpkin_golem"
+        }
+      },
+      {
+        "when": "sheared_golem_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/sheared_golem"
+        }
+      },
+      {
+        "when": "silver_fish_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/silver_fish"
+        }
+      },
+      {
+        "when": "slime_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/slime"
+        }
+      },
+      {
+        "when": "sniffer_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/sniffer"
+        }
+      },
+      {
+        "when": "snow_fox_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/snow_fox"
+        }
+      },
+      {
+        "when": "spider_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/spider"
+        }
+      },
+      {
+        "when": "squid_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/squid"
+        }
+      },
+      {
+        "when": "strider_cold_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/strider_cold"
+        }
+      },
+      {
+        "when": "turtle_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/turtle"
+        }
+      },
+      {
+        "when": "vex_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/vex"
+        }
+      },
+      {
+        "when": "wandering_trader_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/wandering_trader"
+        }
+      },
+      {
+        "when": "warden_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/warden"
+        }
+      },
+      {
+        "when": "warm_strider_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/warm_strider"
+        }
+      },
+      {
+        "when": "witch_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/witch"
+        }
+      },
+      {
+        "when": "wither_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/wither"
+        }
+      },
+      {
+        "when": "wither_skull_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/wither_skull"
+        }
+      },
+      {
+        "when": "zombified_hoglin_misc",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/misc/zombified_hoglin"
+        }
+      },
+      {
+        "when": "brown_panda_panda",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/panda/brown_panda"
+        }
+      },
+      {
+        "when": "panda_panda",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/panda/panda"
+        }
+      },
+      {
+        "when": "red_blue_parrot",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/parrot/red_blue"
+        }
+      },
+      {
+        "when": "yellow_blue_parrot",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/parrot/yellow_blue"
+        }
+      },
+      {
+        "when": "piglin_piglin",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/piglin/piglin"
+        }
+      },
+      {
+        "when": "piglin_brute_piglin",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/piglin/piglin_brute"
+        }
+      },
+      {
+        "when": "zombified_piglin_piglin",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/piglin/zombified_piglin"
+        }
+      },
+      {
+        "when": "caerbannog_rabbit",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/rabbit/caerbannog"
+        }
+      },
+      {
+        "when": "gold_rabbit",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/rabbit/gold"
+        }
+      },
+      {
+        "when": "salt_rabbit",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/rabbit/salt"
+        }
+      },
+      {
+        "when": "toast_rabbit",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/rabbit/toast"
+        }
+      },
+      {
+        "when": "white_splotched_rabbit",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/rabbit/white_splotched"
+        }
+      },
+      {
+        "when": "black_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/black"
+        }
+      },
+      {
+        "when": "blue_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/blue"
+        }
+      },
+      {
+        "when": "brown_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/brown"
+        }
+      },
+      {
+        "when": "cyan_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/cyan"
+        }
+      },
+      {
+        "when": "gray_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/gray"
+        }
+      },
+      {
+        "when": "green_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/green"
+        }
+      },
+      {
+        "when": "jeb_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/jeb"
+        }
+      },
+      {
+        "when": "light_blue_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/light_blue"
+        }
+      },
+      {
+        "when": "light_gray_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/light_gray"
+        }
+      },
+      {
+        "when": "lime_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/lime"
+        }
+      },
+      {
+        "when": "magenta_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/magenta"
+        }
+      },
+      {
+        "when": "orange_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/orange"
+        }
+      },
+      {
+        "when": "pink_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/pink"
+        }
+      },
+      {
+        "when": "purple_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/purple"
+        }
+      },
+      {
+        "when": "red_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/red"
+        }
+      },
+      {
+        "when": "white_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/white"
+        }
+      },
+      {
+        "when": "yellow_sheep",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/sheep/yellow"
+        }
+      },
+      {
+        "when": "black_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/black"
+        }
+      },
+      {
+        "when": "blue_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/blue"
+        }
+      },
+      {
+        "when": "brown_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/brown"
+        }
+      },
+      {
+        "when": "cyan_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/cyan"
+        }
+      },
+      {
+        "when": "gray_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/gray"
+        }
+      },
+      {
+        "when": "green_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/green"
+        }
+      },
+      {
+        "when": "light_blue_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/light_blue"
+        }
+      },
+      {
+        "when": "light_gray_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/light_gray"
+        }
+      },
+      {
+        "when": "lime_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/lime"
+        }
+      },
+      {
+        "when": "magenta_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/magenta"
+        }
+      },
+      {
+        "when": "orange_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/orange"
+        }
+      },
+      {
+        "when": "pink_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/pink"
+        }
+      },
+      {
+        "when": "purple_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/purple"
+        }
+      },
+      {
+        "when": "red_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/red"
+        }
+      },
+      {
+        "when": "shulker_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/shulker"
+        }
+      },
+      {
+        "when": "white_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/white"
+        }
+      },
+      {
+        "when": "yellow_shulker",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/shulker/yellow"
+        }
+      },
+      {
+        "when": "bogged_skeleton",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/skeleton/bogged"
+        }
+      },
+      {
+        "when": "skeleton_skeleton",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/skeleton/skeleton"
+        }
+      },
+      {
+        "when": "stray_skeleton",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/skeleton/stray"
+        }
+      },
+      {
+        "when": "wither_skeleton_skeleton",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/skeleton/wither_skeleton"
+        }
+      },
+      {
+        "when": "default_armorer_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/villager/default_armorer"
+        }
+      },
+      {
+        "when": "default_butcher_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/villager/default_butcher"
+        }
+      },
+      {
+        "when": "default_cleric_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/villager/default_cleric"
+        }
+      },
+      {
+        "when": "default_default_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/villager/default_default"
+        }
+      },
+      {
+        "when": "default_farmer_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/villager/default_farmer"
+        }
+      },
+      {
+        "when": "default_fisherman_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/villager/default_fisherman"
+        }
+      },
+      {
+        "when": "default_fletcher_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/villager/default_fletcher"
+        }
+      },
+      {
+        "when": "default_librarian_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/villager/default_librarian"
+        }
+      },
+      {
+        "when": "default_shepherd_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/villager/default_shepherd"
+        }
+      },
+      {
+        "when": "default_weaponsmith_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/villager/default_weaponsmith"
+        }
+      },
+      {
+        "when": "desert_default_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/villager/desert_default"
+        }
+      },
+      {
+        "when": "savanna_default_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/villager/savanna_default"
+        }
+      },
+      {
+        "when": "swamp_default_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/villager/swamp_default"
+        }
+      },
+      {
+        "when": "tundra_default_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/villager/tundra_default"
+        }
+      },
+      {
+        "when": "ashen_angry_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/ashen_angry"
+        }
+      },
+      {
+        "when": "ashen_default_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/ashen_default"
+        }
+      },
+      {
+        "when": "ashen_tamed_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/ashen_tamed"
+        }
+      },
+      {
+        "when": "black_angry_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/black_angry"
+        }
+      },
+      {
+        "when": "black_default_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/black_default"
+        }
+      },
+      {
+        "when": "black_tamed_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/black_tamed"
+        }
+      },
+      {
+        "when": "chestnut_angry_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/chestnut_angry"
+        }
+      },
+      {
+        "when": "chestnut_default_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/chestnut_default"
+        }
+      },
+      {
+        "when": "chestnut_tamed_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/chestnut_tamed"
+        }
+      },
+      {
+        "when": "pale_angry_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/pale_angry"
+        }
+      },
+      {
+        "when": "pale_default_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/pale_default"
+        }
+      },
+      {
+        "when": "pale_tamed_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/pale_tamed"
+        }
+      },
+      {
+        "when": "rusty_angry_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/rusty_angry"
+        }
+      },
+      {
+        "when": "rusty_default_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/rusty_default"
+        }
+      },
+      {
+        "when": "rusty_tamed_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/rusty_tamed"
+        }
+      },
+      {
+        "when": "snowy_angry_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/snowy_angry"
+        }
+      },
+      {
+        "when": "snowy_default_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/snowy_default"
+        }
+      },
+      {
+        "when": "snowy_tamed_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/snowy_tamed"
+        }
+      },
+      {
+        "when": "spotted_angry_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/spotted_angry"
+        }
+      },
+      {
+        "when": "spotted_default_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/spotted_default"
+        }
+      },
+      {
+        "when": "spotted_tamed_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/spotted_tamed"
+        }
+      },
+      {
+        "when": "striped_angry_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/striped_angry"
+        }
+      },
+      {
+        "when": "striped_default_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/striped_default"
+        }
+      },
+      {
+        "when": "striped_tamed_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/striped_tamed"
+        }
+      },
+      {
+        "when": "woods_angry_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/woods_angry"
+        }
+      },
+      {
+        "when": "woods_default_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/woods_default"
+        }
+      },
+      {
+        "when": "woods_tamed_wolf",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/wolf/woods_tamed"
+        }
+      },
+      {
+        "when": "drowned_zombie",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie/drowned"
+        }
+      },
+      {
+        "when": "husk_zombie",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie/husk"
+        }
+      },
+      {
+        "when": "zombie_zombie",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie/zombie"
+        }
+      },
+      {
+        "when": "default_armorer_zombie_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie_villager/default_armorer"
+        }
+      },
+      {
+        "when": "default_butcher_zombie_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie_villager/default_butcher"
+        }
+      },
+      {
+        "when": "default_cleric_zombie_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie_villager/default_cleric"
+        }
+      },
+      {
+        "when": "default_default_zombie_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie_villager/default_default"
+        }
+      },
+      {
+        "when": "default_farmer_zombie_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie_villager/default_farmer"
+        }
+      },
+      {
+        "when": "default_fisherman_zombie_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie_villager/default_fisherman"
+        }
+      },
+      {
+        "when": "default_fletcher_zombie_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie_villager/default_fletcher"
+        }
+      },
+      {
+        "when": "default_librarian_zombie_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie_villager/default_librarian"
+        }
+      },
+      {
+        "when": "default_shepherd_zombie_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie_villager/default_shepherd"
+        }
+      },
+      {
+        "when": "default_weaponsmith_zombie_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie_villager/default_weaponsmith"
+        }
+      },
+      {
+        "when": "desert_default_zombie_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie_villager/desert_default"
+        }
+      },
+      {
+        "when": "savanna_default_zombie_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie_villager/savanna_default"
+        }
+      },
+      {
+        "when": "swamp_default_zombie_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie_villager/swamp_default"
+        }
+      },
+      {
+        "when": "tundra_default_zombie_villager",
+        "model": {
+          "type": "model",
+          "model": "simplexity:item/bucket_mobs/zombie_villager/tundra_default"
+        }
+      }
+    ]
+  }
+}
